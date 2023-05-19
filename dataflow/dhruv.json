@@ -1,0 +1,14 @@
+{
+	"name": "dhruv",
+	"properties": {
+		"type": "UDFLibrary",
+		"typeProperties": {
+			"sources": [],
+			"sinks": [],
+			"transformations": [],
+			"scriptLines": [
+				"dawdd(string) as integer = abs(12)"
+			]
+		}
+	}
+}
