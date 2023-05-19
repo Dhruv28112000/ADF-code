@@ -1,5 +1,13 @@
 {
 	"name": "test-adf-002",
+	"properties": {
+		"globalParameters": {
+			"a": {
+				"type": "string",
+				"value": "dhruv"
+			}
+		}
+	},
 	"location": "centralindia",
 	"identity": {
 		"type": "SystemAssigned",
